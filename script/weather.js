@@ -1,4 +1,4 @@
-const { weatherAPI } = require('./config/config.JSON')
+const { ee1b70a287e1f524617eca8039ce96cc } = require('./config/config.JSON')
 
 
 // Initial API call
